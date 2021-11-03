@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(134, 238, 134);
+    text-align: center;
+}
+
+h1{
+    color: rgb(72, 37, 226);
+    font-style: oblique;
+}
+
+h2{
+    color: rgb(223, 49, 18);
+    font-style: italic;
+    font-size: 50px;
+}
+
+img{
+    width: 350px;
+}
+
